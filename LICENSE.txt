@@ -1,1 +1,5 @@
-Code is AGPL-3.0-or-later, content CC0-1.0.
+All original code is AGPL-3.0-or-later and content CC0-1.0.
+
+See individual mods' folders for further license information.
+
+See modpack license at https://github.com/minetest-mods/mesecons/blob/master/LICENSE.txt for information for the mods/mesecons_* mods. In short, Mesecons' code is licensed under LGPLv3, and its content under CC-BY-SA-3.0.
