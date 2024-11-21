@@ -1,0 +1,32 @@
+[submodule "mods/default"]
+	path = mods/default
+	url = https://github.com/minetest-game/default
+	shallow = true
+[submodule "mods/dye"]
+	path = mods/dye
+	url = https://github.com/minetest-game/dye
+	shallow = true
+[submodule "mods/dice2"]
+	path = mods/dice2
+	url = https://repo.or.cz/minetest_dice2.git
+	shallow = true
+[submodule "mods/cblocks"]
+	path = mods/cblocks
+	url = https://codeberg.org/tenplus1/cblocks
+	shallow = true
+[submodule "mods/digilines"]
+	path = mods/digilines
+	url = https://github.com/minetest-mods/digilines/
+	shallow = true
+[submodule "mods/led_marquee"]
+	path = mods/led_marquee
+	url = https://github.com/mt-mods/led_marquee
+	shallow = true
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://codeberg.org/tenplus1/mobs_animal
+	shallow = true
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://codeberg.org/tenplus1/mobs_redo
+	shallow = true
