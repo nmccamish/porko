@@ -1,4 +1,4 @@
-All original code is AGPL-3.0-or-later and content CC0-1.0.
+All original code is AGPL-3.0-or-later and content CC0-1.0. JavaScript AI code is derived from code by Prof. Todd Neller, licensed under CC BY-NC-SA 4.0.
 
 See individual mods' folders for further license information.
 
