@@ -2,7 +2,7 @@
 
 You wake up inside a strange, dice-like room, way up in the sky, with a dice, a button, some screens... and pigs. Lots of pigs. You vaguely recall a children's game you played many years ago. What was it called again? Something porcine, perhaps?
 
-Submission for the 2024 Luanti Game Jam.
+Submission for the [2024 Luanti Game Jam](https://web.archive.org/web/20241208095904/https://jam.luanti.org/).
 
 ## Instructions
 
